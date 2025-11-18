@@ -1,0 +1,7 @@
+Package: back-lr
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: ninia <niniasala@sec.edu.ph>
+Description: BACK-LR - Custom live reload tool for Termux
