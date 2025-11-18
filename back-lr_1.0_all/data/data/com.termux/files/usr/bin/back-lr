@@ -1,0 +1,3 @@
+#!/bin/bash
+# Example back-lr script
+echo "BACK-LR is installed and working!"
